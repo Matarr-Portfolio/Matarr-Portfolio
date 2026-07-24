@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Matarr
 
-<!--
-**Matarr-Portfolio/Matarr-Portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently graduated from the university of Winnipeg with a Bachelors in Applied Computer Science, I have build various projects and use several tools and cloud services to automate cloud Infrastructure an reduce deployment time and cost by a huge margin.
 
-Here are some ideas to get you started:
+## Tools I work with
+- Bicep
+- ARM Templates
+- PowerShell
+- GitHub Actions
+- Azure CLI
+- Azure DevOps
+- Terraform
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Azure Infrastructure
+- [Azure Infrastructure] (...)
+
+ ## Currently Learning
+ - Terraform
+ - kubernetes
+ - Docker
+
+## Let's connect!
+[Linkedin] (https://linkedin.com/in/matarr-gaye)
