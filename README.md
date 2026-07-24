@@ -13,7 +13,7 @@ I recently graduated from the university of Winnipeg with a Bachelors in Applied
 - SQL
 
 ## Azure Infrastructure With Bicep
-[Azure Infrastructure Project](https://github.com/Matarr-Portfolio/Azure-Infrastructure-with-Bicep)
+[Azure Infrastructure Projects](https://github.com/Matarr-Portfolio/Azure-Infrastructure-with-Bicep)
 
  ## Currently Learning
  - Terraform
