@@ -12,8 +12,8 @@ I recently graduated from the university of Winnipeg with a Bachelors in Applied
 - Terraform
 - SQL
 
-  ## Azure Infrastructure
-- [Azure Infrastructure] (...)
+## Azure Infrastructure
+[Azure Infrastructure] (...)
 
  ## Currently Learning
  - Terraform
