@@ -13,7 +13,7 @@ I recently graduated from the university of Winnipeg with a Bachelors in Applied
 - SQL
 
 ## Azure Infrastructure
-[Azure Infrastructure] (...)
+[Azure Infrastructure](https://github.com/Matarr-Portfolio/Azure-Infrastructure-with-Bicep)
 
  ## Currently Learning
  - Terraform
@@ -21,4 +21,4 @@ I recently graduated from the university of Winnipeg with a Bachelors in Applied
  - Docker
 
 ## Let's connect!
-[Linkedin] (https://linkedin.com/in/matarr-gaye)
+[Linkedin](https://linkedin.com/in/matarr-gaye)
