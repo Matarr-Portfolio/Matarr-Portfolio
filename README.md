@@ -90,4 +90,4 @@ More projects are added regularly as I continue expanding my Azure skills.
 - Az-305 (Microsoft Infrastructure in progress)
 
 ## Let's connect!
-[Linkedin](https://linkedin.com/in/matarr-gaye)
+[Linkedin](linkedin.com/in/matarr)
