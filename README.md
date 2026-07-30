@@ -87,8 +87,7 @@ More projects are added regularly as I continue expanding my Azure skills.
 - Bachelor of Applied Computer Science
 - Associate of Engineering
 - AZ-104 (Microsoft Administrator)
-- Az-305 (Microsoft Infrastructure)
-- AZ-500 (Microsoft Security in Progress)
+- Az-305 (Microsoft Infrastructure in progress)
 
 ## Let's connect!
 [Linkedin](https://linkedin.com/in/matarr-gaye)
